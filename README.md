@@ -66,7 +66,14 @@ ai-cloud-optimizer
 ### Automation Output
 ![Automation](screenshots/Screenshot%202026-03-14%20150139.png)
 
----
+### EC2 Instance Status
+![EC2](screenshots/Screenshot%202026-03-14%20114303.png)
+
+### Terminal Automation
+![Terminal](screenshots/Screenshot%202026-03-14%20150157.png)
+
+### Additional Monitoring
+![Monitoring](screenshots/Screenshot%202026-03-14%20150206.png)
 
 # ⚙ How It Works
 
