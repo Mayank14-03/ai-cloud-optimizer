@@ -57,6 +57,10 @@ ai-cloud-optimizer
 
 # 📸 Screenshots
 
+## Architecture
+
+![Architecture](architecture/architecture-diagram.png)
+
 ### Dashboard
 ![Dashboard](screenshots/Screenshot%202026-03-14%20114114.png)
 
