@@ -1,6 +1,6 @@
 # 🚀 AI Cloud Optimizer
 
-AI Cloud Optimizer is an intelligent cloud automation system that monitors AWS infrastructure and automatically optimizes cloud resources to reduce unnecessary costs.
+AI Cloud Optimizer is a cloud automation platform that monitors AWS infrastructure and automatically optimizes EC2 resources to reduce unnecessary cloud costs.
 
 The platform analyzes EC2 CPU utilization using CloudWatch metrics and automatically stops underutilized instances.
 
@@ -16,19 +16,9 @@ The platform analyzes EC2 CPU utilization using CloudWatch metrics and automatic
 
 ---
 
-# 🏗 Architecture
+## 🏗 Architecture
 
-User Dashboard  
-↓  
-Python Automation Engine  
-↓  
-CloudWatch Metrics  
-↓  
-Decision Engine  
-↓  
-Automatic EC2 Stop  
-
----
+![Architecture](architecture/architecture-diagram.png)
 
 # 🛠 Tech Stack
 
@@ -40,8 +30,9 @@ Flask
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
+```
 ai-cloud-optimizer
 │
 ├── architecture
@@ -51,14 +42,11 @@ ai-cloud-optimizer
 ├── ml-engine
 ├── screenshots
 └── README.md
+```
 
+## 📸 Screenshots
 
----
-
-# 📸 Screenshots
-
-## Architecture
-
+### Architecture
 ![Architecture](architecture/architecture-diagram.png)
 
 ### Dashboard
@@ -69,15 +57,6 @@ ai-cloud-optimizer
 
 ### Automation Output
 ![Automation](screenshots/Screenshot%202026-03-14%20150139.png)
-
-### EC2 Instance Status
-![EC2](screenshots/Screenshot%202026-03-14%20114303.png)
-
-### Terminal Automation
-![Terminal](screenshots/Screenshot%202026-03-14%20150157.png)
-
-### Additional Monitoring
-![Monitoring](screenshots/Screenshot%202026-03-14%20150206.png)
 
 # ⚙ How It Works
 
