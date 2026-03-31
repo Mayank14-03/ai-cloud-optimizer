@@ -93,10 +93,21 @@ Open in browser:
 http://<your-ec2-ip>:5000
 
 📸 Screenshots
-Dashboard UI
-CloudWatch Monitoring
-Automation Logs
-(Add images in /screenshots folder)
+
+### Dashboard UI
+![Dashboard](screenshots/dashboard.png)
+
+### CloudWatch Monitoring
+![CloudWatch](screenshots/cloudwatch.png)
+
+### Email Alert (SES)
+![Email](screenshots/email-alert.png)
+
+### Automation Logs
+![Logs](screenshots/automation-log.png)
+
+### Terminal Execution
+![Terminal](screenshots/terminal-output.png)
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
@@ -114,7 +125,6 @@ Machine Learning integration
 Full-stack development capability
 
 👨‍💻 Author
-
 Mayank Korde
 
 GitHub: https://github.com/Mayank14-03
