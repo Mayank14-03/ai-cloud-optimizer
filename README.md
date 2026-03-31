@@ -120,19 +120,19 @@ http://<your-ec2-ip>:5000
 ## 📸 Screenshots
 
 ### Dashboard UI
-![Dashboard](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/dashboard.png?raw=true)
+<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/dashboard.png?raw=true" width="800"/>
 
 ### CloudWatch Monitoring
-![CloudWatch](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/cloudwatch.png?raw=true)
+<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/cloudwatch.png?raw=true" width="800"/>
 
 ### Email Alert (SES)
-![Email](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/email-alert.png?raw=true)
+<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/email-alert.png?raw=true" width="800"/>
 
 ### Automation Logs
-![Logs](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/automation-log.png?raw=true)
+<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/automation-log.png?raw=true" width="800"/>
 
 ### Terminal Execution
-![Terminal](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/terminal-output.png?raw=true)
+<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/terminal-output.png?raw=true" width="800"/>
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
