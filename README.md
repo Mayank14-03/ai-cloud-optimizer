@@ -95,19 +95,19 @@ http://<your-ec2-ip>:5000
 📸 Screenshots
 
 ### Dashboard UI
-![Dashboard](screenshots/dashboard.png)
+<img src="./screenshots/dashboard.png" width="800"/>
 
 ### CloudWatch Monitoring
-![CloudWatch](screenshots/cloudwatch.png)
+<img src="./screenshots/cloudwatch.png" width="800"/>
 
 ### Email Alert (SES)
-![Email](screenshots/email-alert.png)
+<img src="./screenshots/email-alert.png" width="800"/>
 
 ### Automation Logs
-![Logs](screenshots/automation-log.png)
+<img src="./screenshots/automation-log.png" width="800"/>
 
 ### Terminal Execution
-![Terminal](screenshots/terminal-output.png)
+<img src="./screenshots/terminal-output.png" width="800"/>
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
