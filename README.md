@@ -92,7 +92,7 @@ python3 app.py
 Open in browser:
 http://<your-ec2-ip>:5000
 
-📸 Screenshots
+## 📸 Screenshots
 
 ### Dashboard UI
 ![Dashboard](https://raw.githubusercontent.com/Mayank14-03/ai-cloud-optimizer/main/screenshots/dashboard.png)
