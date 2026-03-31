@@ -48,7 +48,32 @@ EC2 Stop / Email Alert
 - **Libraries:** Boto3, Scikit-learn  
 - **Frontend:** HTML, CSS  
 
+
+User → Flask Dashboard
+↓
+Backend (Boto3)
+↓
+AWS CloudWatch Metrics
+↓
+ML Engine (Prediction)
+↓
+Automation Engine
+↓
+EC2 Stop / Email Alert
+
+
 ---
+
+## 🛠️ Tech Stack
+
+- **Programming:** Python  
+- **Framework:** Flask  
+- **Cloud Services:** AWS EC2, CloudWatch, SES  
+- **Libraries:** Boto3, Scikit-learn  
+- **Frontend:** HTML, CSS  
+
+---
+
 
 ## 📂 Project Structure
 
@@ -92,6 +117,7 @@ python3 app.py
 Open in browser:
 http://<your-ec2-ip>:5000
 
+
 📸 Screenshots
 
 ### Dashboard UI
@@ -116,7 +142,6 @@ Auto-scaling instead of stopping instances
 Authentication & user roles
 
 💼 Resume Impact
-
 This project demonstrates:
 
 Real-world AWS cloud experience
@@ -128,5 +153,4 @@ Full-stack development capability
 Mayank Korde
 
 GitHub: https://github.com/Mayank14-03
-
 
