@@ -119,7 +119,7 @@ http://<your-ec2-ip>:5000
 
 ## 📸 Screenshots
 
-<img width="1919" height="1028" alt="Screenshot 2026-03-18 014503" src="https://github.com/user-attachments/assets/23a5cc95-7221-44a9-bbe3-739e34ec3cb0" />
+https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/dashboard.png
 
 
 
