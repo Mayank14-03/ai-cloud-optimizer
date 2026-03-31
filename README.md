@@ -119,15 +119,9 @@ http://<your-ec2-ip>:5000
 
 ## 📸 Screenshots
 
-<img width="1919" height="1028" alt="dashboard" src="https://github.com/user-attachments/assets/e6bfc52f-2d8b-426f-a4ed-c6d9cf881dde" />
+<img width="1919" height="1028" alt="Screenshot 2026-03-18 014503" src="https://github.com/user-attachments/assets/23a5cc95-7221-44a9-bbe3-739e34ec3cb0" />
 
-<img width="1919" height="970" alt="cloudwatch" src="https://github.com/user-attachments/assets/278fe733-5719-45ac-ae40-f03a16188c92" />
 
-<img width="1919" height="953" alt="email-alert" src="https://github.com/user-attachments/assets/2f73e097-a708-407d-98bc-6cb9d9478af2" />
-
-<img width="1919" height="971" alt="automation-log" src="https://github.com/user-attachments/assets/8184efb5-368f-4ca9-8409-e5935c0e6d10" />
-
-<img width="1919" height="925" alt="terminal-output" src="https://github.com/user-attachments/assets/76a3e9cf-23a5-4fd2-84e8-5d26a060a985" />
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
