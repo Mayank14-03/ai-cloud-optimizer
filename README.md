@@ -120,19 +120,19 @@ http://<your-ec2-ip>:5000
 ## 📸 Screenshots
 
 ### Dashboard UI
-<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/dashboard.png?raw=true" width="800"/>
+![Dashboard](screenshots/dashboard.png)
 
 ### CloudWatch Monitoring
-<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/cloudwatch.png?raw=true" width="800"/>
+![CloudWatch](screenshots/cloudwatch.png)
 
 ### Email Alert (SES)
-<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/email-alert.png?raw=true" width="800"/>
+![Email](screenshots/email-alert.png)
 
 ### Automation Logs
-<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/automation-log.png?raw=true" width="800"/>
+![Logs](screenshots/automation-log.png)
 
 ### Terminal Execution
-<img src="https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/terminal-output.png?raw=true" width="800"/>
+![Terminal](screenshots/terminal-output.png)
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
