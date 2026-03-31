@@ -117,23 +117,22 @@ python3 app.py
 Open in browser:
 http://<your-ec2-ip>:5000
 
-
-📸 Screenshots
+## 📸 Screenshots
 
 ### Dashboard UI
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/dashboard.png?raw=true)
 
 ### CloudWatch Monitoring
-![CloudWatch](screenshots/cloudwatch.png)
+![CloudWatch](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/cloudwatch.png?raw=true)
 
 ### Email Alert (SES)
-![Email](screenshots/email-alert.png)
+![Email](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/email-alert.png?raw=true)
 
 ### Automation Logs
-![Logs](screenshots/automation-log.png)
+![Logs](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/automation-log.png?raw=true)
 
 ### Terminal Execution
-![Terminal](screenshots/terminal-output.png)
+![Terminal](https://github.com/Mayank14-03/ai-cloud-optimizer/blob/main/screenshots/terminal-output.png?raw=true)
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
