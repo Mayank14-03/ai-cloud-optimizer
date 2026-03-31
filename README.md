@@ -93,15 +93,10 @@ Open in browser:
 http://<your-ec2-ip>:5000
 
 📸 Screenshots
-Dashboard UI
 
-CloudWatch Monitoring
+(screenshots/dashboard.png)
 
-Email Alert (SES)
 
-Automation Logs
-
-Terminal Execution
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
