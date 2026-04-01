@@ -119,20 +119,21 @@ http://<your-ec2-ip>:5000
 
 ## 📸 Screenshots
 
-### Dashboard
-<img src="https://github.com/user-attachments/assets/115157e9-4991-45db-8f45-290959a3ac0f" width="800"/>
+### Dashboard UI
+![Dashboard](./screenshots/dashboard.png)
 
-### CloudWatch
-<img src="https://github.com/user-attachments/assets/dbb9bdd1-f2a4-4445-967d-afb1826019f7" width="800"/>
+### CloudWatch Monitoring
+![CloudWatch](./screenshots/cloudwatch.png)
 
-### Email Alert
-<img src="https://github.com/user-attachments/assets/927259dd-68da-4bbf-978e-05b930f841cc" width="800"/>
+### Email Alert (SES)
+![Email](./screenshots/email-alert.png)
 
-### Logs
-<img src="https://github.com/user-attachments/assets/811808b6-495d-4789-9732-2e8a9bf04439" width="800"/>
+### Automation Logs
+![Logs](./screenshots/automation-log.png)
 
-### Terminal
-<img src="https://github.com/user-attachments/assets/da7cc48c-a07f-4ac4-951e-bd879441f943" width="800"/>
+### Terminal Execution
+![Terminal](./screenshots/terminal-output.png)
+
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
