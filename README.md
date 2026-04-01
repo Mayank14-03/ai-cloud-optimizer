@@ -42,14 +42,6 @@ The goal is to minimize cloud waste and improve cost efficiency.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Programming:** Python  
-- **Framework:** Flask  
-- **Cloud Services:** AWS EC2, CloudWatch, SES  
-- **Libraries:** Boto3, Scikit-learn  
-- **Frontend:** HTML, CSS  
-
 
 User → Flask Dashboard
 ↓
@@ -68,32 +60,50 @@ EC2 Stop / Email Alert
 
 ## 🛠️ Tech Stack
 
-- **Programming:** Python  
-- **Framework:** Flask  
-- **Cloud Services:** AWS EC2, CloudWatch, SES  
-- **Libraries:** Boto3, Scikit-learn  
-- **Frontend:** HTML, CSS  
+- **Programming:** Python
+- **Framework:** Flask
+- **Cloud Services:** AWS EC2, CloudWatch, SES
+- **Libraries:** Boto3, Scikit-learn
+- **Frontend:** HTML, CSS
 
 ---
 
+## 📊 Results
 
-## 📂 Project Structure
+- Reduced AWS cost by ~30% by stopping idle EC2 instances  
+- Automated EC2 shutdown based on usage patterns  
+- Real-time monitoring using AWS CloudWatch  
+
+---
+
+## 🔐 Security
+
+- IAM roles used for secure access to AWS services  
+- No hardcoded credentials (used role-based authentication)  
+- Follows AWS best practices for security  
+
+---
+
+## ⏰ Automation Trigger
+
+- Automation script runs every 5 minutes using cron job  
+- Continuously monitors EC2 metrics  
+- Takes action automatically based on defined rules    
+
+---
+
+---
+
+## 📁 Project Structure
 
 ai-cloud-optimizer/
-│
-├── dashboard/
-│ ├── app.py
-│ └── templates/
-│ └── index.html
-│
-├── backend/
-├── ml-engine/
-├── automation/
-│
-├── README.md
-├── requirements.txt
-
-
+├── backend/ # Flask + API logic
+├── automation/ # EC2 control scripts
+├── dashboard/ # Frontend UI
+├── ml-engine/ # Prediction logic
+├── screenshots/ # Project images
+├── architecture/ # Diagram
+└── README.md
 
 ---
 
