@@ -23,20 +23,22 @@ The goal is to minimize cloud waste and improve cost efficiency.
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture (Flow)
 
-User → Flask Dashboard
-↓
-Backend (Boto3)
-↓
-AWS CloudWatch Metrics
-↓
-ML Engine (Prediction)
-↓
-Automation Engine
-↓
-EC2 Stop / Email Alert
+1. User interacts with Flask Dashboard  
+2. Backend fetches data using Boto3  
+3. CloudWatch provides EC2 metrics  
+4. ML Engine predicts usage patterns  
+5. Automation Engine applies logic  
+6. EC2 is stopped OR email alert is sent  
 
+---
+
+## 🏗️ Architecture Diagram
+
+<p align="center">
+  <img src="./architecture/architecture-diagram.png" width="800"/>
+</p>
 
 ---
 
