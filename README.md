@@ -118,21 +118,9 @@ Open in browser:
 http://<your-ec2-ip>:5000
 
 ## 📸 Screenshots
+<img width="1919" height="1028" alt="dashboard" src="https://github.com/user-attachments/assets/4b2630b5-ef8f-4afb-bb3b-7428f7b5772b" />
 
-### Dashboard UI
-![Dashboard](screenshots/dashboard.png)
 
-### CloudWatch Monitoring
-![CloudWatch](screenshots/cloudwatch.png)
-
-### Email Alert (SES)
-![Email](screenshots/email-alert.png)
-
-### Automation Logs
-![Logs](screenshots/automation-log.png)
-
-### Terminal Execution
-![Terminal](screenshots/terminal-output.png)
 
 🚀 Future Enhancements
 Multi-cloud support (AWS, Azure, GCP)
